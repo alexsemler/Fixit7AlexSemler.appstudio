@@ -12,4 +12,4 @@ let lowerCaseString = secondQuote.toLowerCase()
 
 let thirdPos = secondQuote.charAt(3)
 
-let findString = 
+let findString = secondQuote.replace("What separates the talented individual from the successful one is a lot of hard work.", "")
